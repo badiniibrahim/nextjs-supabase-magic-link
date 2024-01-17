@@ -1,4 +1,4 @@
-## Building a authenticate app with Prisma, Supabase, NextAuth, and TypeScript
+## Building a authenticate app with Supabase, NextJS, and TypeScript
 
 Next.js Application & Magic Link Authentication with shadcn.com ✨
 
@@ -15,7 +15,8 @@ Next.js Application & Magic Link Authentication with shadcn.com ✨
 <img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/github/license/Yuberley/ChatGPT-App-React-Native-TypeScript?style&color=5D6D7E" alt="GitHub license" />
 
-🚀 Tech Stack:Next
+### 🚀 Tech Stack
+
 Next.js: For rapid development and outstanding performance.
 
 Supabase: A PostgreSQL database as a service with integrated authentication management features.
@@ -25,15 +26,19 @@ Zod: For schema validation and enhanced data security.
 
 shadcn.com: For creative and innovative web solutions.
 
-🔐 Magic Link Authentication
+### 🔐 Magic Link Authentication
 
 I have integrated a Magic Link authentication system that provides passwordless authentication, simplifying the process for users while enhancing security.
 
-🚀 Key Features
-Profile Management: Users can update their profiles with information such as full name, username, and website.
-Optimal User Experience: With Next.js, the application offers smooth navigation and impressive responsiveness.
+### 🚀 Key Features
 
-👩‍💻 Why This Stack?
+Profile Management: Users can update their profiles with information such as full name, username, and website.
+Optimal User
+
+Experience: With Next.js, the application offers smooth navigation and impressive responsiveness.
+
+### 👩‍💻 Why This Stack?
+
 Next.js: For its versatility and performance.
 
 Supabase: An all-in-one solution for database management and authentication.
@@ -42,7 +47,7 @@ TypeScript and Zod: A powerful duo to ensure data security and easy maintenance.
 
 shadcn.com: For creative and innovative web solutions.
 
-🔐 Setup .env file
+### 🔐 Setup .env file
 
 NEXT_PUBLIC_SUPABASE_URL
 
